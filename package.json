@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'test'",
-    "release": "release-it --no-npm",
+    "release": "release-it",
     "lint": "echo 'lint'"
   },
   "keywords": [],
