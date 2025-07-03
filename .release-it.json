@@ -7,6 +7,6 @@
     ]
   },
   "npm": {
-    "publish": true
+    "publish": false
   }
 }
